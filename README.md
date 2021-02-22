@@ -3,8 +3,10 @@
   Welcome to my github!
   </br>
   I'm Frail, a passionate frontend web developer from
-  <img src="img/philippines.svg" width="13"/>
+  <img alt="philippine flag" src="img/philippine-flag.svg" width="13"/>
   <b>Iligan, Philippines</b>, currently working remotely.</p>
+
+<img alt="confetti cover" src="img/confetti-cover.svg">
 
 <h3>Things I code</h3>
 <p>
