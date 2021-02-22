@@ -4,16 +4,18 @@
   </br>
   I'm Frail, a passionate frontend web developer from
   <img alt="philippine flag" src="img/philippine-flag.svg" width="13"/>
-  <b>Iligan, Philippines</b>, currently working remotely.</p>
-
-<img alt="confetti cover" src="img/confetti-cover.svg">
+  <b>Iligan, Philippines</b>, currently working remotely.
+</p>
 
 <h3>Things I code</h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
+<section style="display: grid; grid-template-columns: 1fr 1fr;">
+  <div>
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="html5" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img alt="html5" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  </div>
+  <img alt="code thinking" src="img/code-thinking.svg">
+<section>
 <!--
 **frailbongat/frailbongat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
