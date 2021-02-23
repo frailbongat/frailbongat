@@ -21,8 +21,12 @@
 
 <h3>Reach Me At</h3>
 <p>
-  <img alt="upwork" src="https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~01c7889b512a0fa907" />
-  <img alt="html5" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/frailbongat" />
+  <a href="https://www.upwork.com/freelancers/~01c7889b512a0fa907" target="_blank">
+    <img alt="upwork" src="https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/frailbongat" target="_blank">
+    <img alt="html5" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
 </p>
 <!--
 **frailbongat/frailbongat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
