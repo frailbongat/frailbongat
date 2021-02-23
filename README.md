@@ -17,12 +17,14 @@
 - 🔭 I’m currently working on a cheatsheet website
 - 🌱 I’m currently learning C# & ASP.NET
 - 👯 I’m looking to collaborate on React Project
-- 🤔 I’m looking for help with Kendo UI
-- 💬 Ask me about anything HTML, CSS, & JS
+- 💬 Ask me anything about HTML, CSS, & JS
 
 <h3>Reach Me At</h3>
 <p>
-  <a href="https://twitter.com/frailbongat" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01c7889b512a0fa907">
+    <img alt="upwork" src="https://img.shields.io/badge/-Twitter-6FDA44?style=flat-square&logo=upwork&logoColor=black" />
+  </a>
+  <a href="https://twitter.com/frailbongat">
     <img alt="html5" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </p>
