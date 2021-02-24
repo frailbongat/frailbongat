@@ -15,7 +15,7 @@
 </p>
 
 - 🔭 I’m currently working on a cheatsheet website
-- 🌱 I’m currently learning C# & ASP.NET
+- 🌱 I’m currently learning React & Gatsby
 - 👯 I’m looking to collaborate on React Project
 - 💬 Ask me anything about HTML, CSS, & JS
 
@@ -26,6 +26,9 @@
   </a>
   <a href="https://twitter.com/frailbongat" target="_blank">
     <img alt="twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://dev.to/frailbongat" target="_blank">
+    <img alt="dev.to" src="https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" />
   </a>
 </p>
 <!--
