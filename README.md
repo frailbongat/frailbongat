@@ -12,6 +12,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
 - 🔭 I’m currently working on a cheatsheet website
@@ -29,6 +30,9 @@
   </a>
   <a href="https://dev.to/frailbongat" target="_blank">
     <img alt="dev.to" src="https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/johnfrail" target="_blank">
+    <img alt="codepen" src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" />
   </a>
 </p>
 <!--
