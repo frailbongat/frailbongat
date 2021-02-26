@@ -22,17 +22,14 @@
 
 <h3>Reach Me At</h3>
 <p>
-  <a href="https://www.upwork.com/freelancers/~01c7889b512a0fa907" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01c7889b512a0fa907">
     <img alt="upwork" src="https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" />
   </a>
-  <a href="https://twitter.com/frailbongat" target="_blank">
+  <a href="https://twitter.com/frailbongat">
     <img alt="twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://dev.to/frailbongat" target="_blank">
+  <a href="https://dev.to/frailbongat">
     <img alt="dev.to" src="https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/johnfrail" target="_blank">
-    <img alt="codepen" src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" />
   </a>
 </p>
 <!--
