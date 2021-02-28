@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<img alt="cde thinking" src="img/code-thinking.svg" width="200px" align="right" />
+<img alt="cde thinking" src="img/code-thinking.svg" width="50%" align="right" />
 <!--
 **frailbongat/frailbongat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
