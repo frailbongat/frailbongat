@@ -28,7 +28,7 @@
   <img alt="gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frailbongat&layout=compact$theme=dark)](https://github.com/frailbongat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frailbongat&layout=compact$)](https://github.com/frailbongat)
 
 <h3>Reach Me At</h3>
 <p>
