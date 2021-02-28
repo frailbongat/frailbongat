@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  <img alt="html css" src="img/html-css.svg" width="50%" height="auto" align="right" />
+  <img alt="html css" src="img/html-css.svg" width="50%" height="300" align="right" />
   🔭 I’m currently working on a cheatsheet website
   <br>
   🌱 I’m currently learning React & Gatsby
