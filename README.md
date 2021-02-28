@@ -7,6 +7,17 @@
   <b>Iligan, Philippines</b>, currently working remotely.
 </p>
 
+<p>
+  <img alt="html css" src="img/html-css.svg" width="50%" align="right" />
+  🔭 I’m currently working on a cheatsheet website
+  <br>
+  🌱 I’m currently learning React & Gatsby
+  <br>
+  👯 I’m looking to collaborate on React Project
+  <br>
+  💬 Ask me anything about HTML, CSS, & JS
+</p>
+
 <h3>Things I code</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -14,11 +25,6 @@
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
-
-- 🔭 I’m currently working on a cheatsheet website
-- 🌱 I’m currently learning React & Gatsby
-- 👯 I’m looking to collaborate on React Project
-- 💬 Ask me anything about HTML, CSS, & JS
 
 <h3>Reach Me At</h3>
 <p>
@@ -33,7 +39,6 @@
   </a>
 </p>
 
-<img alt="cde thinking" src="img/code-thinking.svg" width="50%" align="right" />
 <!--
 **frailbongat/frailbongat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
