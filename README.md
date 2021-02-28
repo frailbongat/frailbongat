@@ -38,8 +38,6 @@
     <img alt="dev.to" src="https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" />
   </a>
 </p>
-<br>
-<br>
 <!--
 **frailbongat/frailbongat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
