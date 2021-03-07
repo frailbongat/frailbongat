@@ -3,12 +3,12 @@
   Welcome to my github!
   </br>
   I'm Frail, a passionate frontend web developer from
-  <img alt="philippine flag" src="img/philippine-flag.svg" width="13" height="13" />
+  <img alt="philippine flag" src="src/img/philippine-flag.svg" width="13" height="13" />
   <b>Iligan, Philippines</b>, currently working remotely.
 </p>
 
 <p>
-  <img alt="html css" src="img/html-css.svg" width="50%" height="290" align="right" />
+  <img alt="html css" src="src/img/html-css.svg" width="50%" height="290" align="right" />
   🔭 I’m currently working on a cheatsheet website
   <br>
   🌱 I’m currently learning React & Gatsby
