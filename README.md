@@ -27,6 +27,8 @@
   <img alt="jquery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
+  <img alt="wordpress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img alt="shopify" src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frailbongat&layout=compact&theme=gotham)](https://github.com/frailbongat)
