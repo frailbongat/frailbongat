@@ -1,7 +1,7 @@
-import React, { useState } from "react"
-import PropTypes from "prop-types"
+import React, { useState } from 'react'
+import PropTypes from 'prop-types'
 
-import Context from "."
+import Context from '.'
 
 const GlobalStateProvider = ({ children, initialState }) => {
   const [state, setState] = useState(initialState)

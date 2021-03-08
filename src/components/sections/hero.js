@@ -1,16 +1,16 @@
-import React, { useEffect, useContext } from "react"
-import PropTypes from "prop-types"
-import styled from "styled-components"
-import Img from "gatsby-image"
-import { MDXRenderer } from "gatsby-plugin-mdx"
-import { motion, useAnimation } from "framer-motion"
+import React, { useEffect, useContext } from 'react'
+import PropTypes from 'prop-types'
+import styled from 'styled-components'
+import Img from 'gatsby-image'
+import { MDXRenderer } from 'gatsby-plugin-mdx'
+import { motion, useAnimation } from 'framer-motion'
 
-import Context from "../../context/"
-import ContentWrapper from "../../styles/contentWrapper"
-import Underlining from "../../styles/underlining"
-import Social from "../social"
-import SplashScreen from "../splashScreen"
-import { lightTheme, darkTheme } from "../../styles/theme"
+import Context from '../../context/'
+import ContentWrapper from '../../styles/contentWrapper'
+import Underlining from '../../styles/underlining'
+import Social from '../social'
+import SplashScreen from '../splashScreen'
+import { lightTheme, darkTheme } from '../../styles/theme'
 
 const StyledSection = styled.section`
   width: 100%;
@@ -95,7 +95,7 @@ const Hero = ({ content }) => {
           boxShadow: `inset 0 -2rem 0 ${
             darkMode ? darkTheme.colors.secondary : lightTheme.colors.secondary
           }`,
-          transition: { delay: 0.4, ease: "circOut" },
+          transition: { delay: 0.4, ease: 'circOut' },
         })
       }
     }
@@ -127,7 +127,7 @@ const Hero = ({ content }) => {
             {frontmatter.title}
           </h1>
           <h2 className="subtitle">
-            {frontmatter.subtitlePrefix}{" "}
+            {frontmatter.subtitlePrefix}{' '}
             <AnimatedUnderlining animate={uControls} big>
               {frontmatter.subtitle}
             </AnimatedUnderlining>

@@ -1,14 +1,14 @@
-import React from "react"
-import PropTypes from "prop-types"
-import { graphql } from "gatsby"
-import styled from "styled-components"
-import { MDXRenderer } from "gatsby-plugin-mdx"
+import React from 'react'
+import PropTypes from 'prop-types'
+import { graphql } from 'gatsby'
+import styled from 'styled-components'
+import { MDXRenderer } from 'gatsby-plugin-mdx'
 
-import GlobalStateProvider from "../context/provider"
-import ContentWrapper from "../styles/contentWrapper"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { seoTitleSuffix } from "../../config"
+import GlobalStateProvider from '../context/provider'
+import ContentWrapper from '../styles/contentWrapper'
+import Layout from '../components/layout'
+import SEO from '../components/seo'
+import { seoTitleSuffix } from '../../config'
 
 const StyledSection = styled.section`
   width: 100%;
@@ -57,7 +57,7 @@ const Imprint = ({ data }) => {
               ? `${seoTitle} - ${seoTitleSuffix}`
               : `${seoTitle}`
           }
-          meta={[{ name: "robots", content: "noindex" }]}
+          meta={[{ name: 'robots', content: 'noindex' }]}
         />
         <StyledSection id={title}>
           <StyledContentWrapper>

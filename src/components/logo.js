@@ -1,14 +1,14 @@
-import React from "react"
-import PropTypes from "prop-types"
-import styled from "styled-components"
+import React from 'react'
+import PropTypes from 'prop-types'
+import styled from 'styled-components'
 
-import { siteShortTitle } from "../../config"
+import { siteShortTitle } from '../../config'
 
 const StyledLogo = styled.div`
   position: relative;
   z-index: 13;
 
-  font-size: ${({ size }) => (size ? size : "1.75rem")};
+  font-size: ${({ size }) => (size ? size : '1.75rem')};
   font-weight: 900;
   color: ${({ theme, color }) => theme.colors[color] || color};
 

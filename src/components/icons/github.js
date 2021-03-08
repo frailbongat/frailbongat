@@ -1,5 +1,5 @@
-import React from "react"
-import PropTypes from "prop-types"
+import React from 'react'
+import PropTypes from 'prop-types'
 
 const Github = ({ color }) => {
   return (
@@ -30,7 +30,7 @@ Github.propTypes = {
 }
 
 Github.defaultProps = {
-  color: "#000000",
+  color: '#000000',
 }
 
 export default Github

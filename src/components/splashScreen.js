@@ -1,11 +1,11 @@
-import React, { useEffect, useContext } from "react"
-import styled from "styled-components"
-import Helmet from "react-helmet"
-import { motion, useAnimation } from "framer-motion"
+import React, { useEffect, useContext } from 'react'
+import styled from 'styled-components'
+import Helmet from 'react-helmet'
+import { motion, useAnimation } from 'framer-motion'
 
-import { lightTheme, darkTheme } from "../styles/theme"
-import Context from "../context/"
-import Logo from "./logo"
+import { lightTheme, darkTheme } from '../styles/theme'
+import Context from '../context/'
+import Logo from './logo'
 
 const StyledSplashScreen = styled(motion.div)`
   position: fixed;
@@ -48,7 +48,7 @@ const SplashScreen = () => {
   useEffect(() => {
     const sequence = async () => {
       await backgroundControls.start({ opacity: 1 })
-      await backdropControls.start({ height: "0%", transition: { delay: 0.8 } })
+      await backdropControls.start({ height: '0%', transition: { delay: 0.8 } })
       await backgroundControls.start({ opacity: 0, transition: { delay: 0.6 } })
       setState({ ...state, isIntroDone: true })
     }
@@ -63,12 +63,12 @@ const SplashScreen = () => {
     >
       {/* Add splashScreen class to body (prevents scrolling during splashScreen) */}
       <Helmet
-        bodyAttributes={{ class: !state.isIntroDone ? "splashScreen" : "" }}
+        bodyAttributes={{ class: !state.isIntroDone ? 'splashScreen' : '' }}
       />
       <div className="logo-wrapper">
         <motion.div
           className="backdrop"
-          initial={{ height: "100%" }}
+          initial={{ height: '100%' }}
           animate={backdropControls}
         />
         <Logo

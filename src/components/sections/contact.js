@@ -1,14 +1,14 @@
-import React, { useRef } from "react"
-import PropTypes from "prop-types"
-import styled from "styled-components"
-import Img from "gatsby-image"
-import { MDXRenderer } from "gatsby-plugin-mdx"
-import { motion } from "framer-motion"
+import React, { useRef } from 'react'
+import PropTypes from 'prop-types'
+import styled from 'styled-components'
+import Img from 'gatsby-image'
+import { MDXRenderer } from 'gatsby-plugin-mdx'
+import { motion } from 'framer-motion'
 
-import { useOnScreen } from "../../hooks"
-import ContentWrapper from "../../styles/contentWrapper"
-import Underlining from "../../styles/underlining"
-import Social from "../social"
+import { useOnScreen } from '../../hooks'
+import ContentWrapper from '../../styles/contentWrapper'
+import Underlining from '../../styles/underlining'
+import Social from '../social'
 
 const StyledSection = styled(motion.section)`
   width: 100%;
@@ -75,7 +75,7 @@ const Contact = ({ content }) => {
       id="contact"
       ref={ref}
       variants={variants}
-      animate={onScreen ? "visible" : "hidden"}
+      animate={onScreen ? 'visible' : 'hidden'}
     >
       <StyledContentWrapper>
         <h3>{frontmatter.title}</h3>

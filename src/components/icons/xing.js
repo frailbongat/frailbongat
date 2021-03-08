@@ -1,5 +1,5 @@
-import React from "react"
-import PropTypes from "prop-types"
+import React from 'react'
+import PropTypes from 'prop-types'
 
 const Xing = ({ color }) => {
   return (
@@ -27,7 +27,7 @@ Xing.propTypes = {
 }
 
 Xing.defaultProps = {
-  color: "#000000",
+  color: '#000000',
 }
 
 export default Xing

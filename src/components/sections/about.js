@@ -1,13 +1,13 @@
-import React, { useRef, useContext, useEffect } from "react"
-import PropTypes from "prop-types"
-import styled from "styled-components"
-import Img from "gatsby-image"
-import { MDXRenderer } from "gatsby-plugin-mdx"
-import { motion, useAnimation } from "framer-motion"
+import React, { useRef, useContext, useEffect } from 'react'
+import PropTypes from 'prop-types'
+import styled from 'styled-components'
+import Img from 'gatsby-image'
+import { MDXRenderer } from 'gatsby-plugin-mdx'
+import { motion, useAnimation } from 'framer-motion'
 
-import { useOnScreen } from "../../hooks/"
-import Context from "../../context/"
-import ContentWrapper from "../../styles/contentWrapper"
+import { useOnScreen } from '../../hooks/'
+import Context from '../../context/'
+import ContentWrapper from '../../styles/contentWrapper'
 
 const StyledSection = styled.section`
   width: 100%;

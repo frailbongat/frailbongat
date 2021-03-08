@@ -1,9 +1,9 @@
-import React from "react"
-import PropTypes from "prop-types"
-import styled from "styled-components"
-import { Link } from "gatsby"
+import React from 'react'
+import PropTypes from 'prop-types'
+import styled from 'styled-components'
+import { Link } from 'gatsby'
 
-import { navLinks } from "../../config"
+import { navLinks } from '../../config'
 
 const StyledBackdrop = styled.div`
   position: fixed;
@@ -14,7 +14,7 @@ const StyledBackdrop = styled.div`
   background: rgba(0, 0, 0, 0.3);
   z-index: 9;
   transition: all 0.3s ease-in-out;
-  display: ${({ open }) => (open ? "block" : "none")};
+  display: ${({ open }) => (open ? 'block' : 'none')};
   @media (min-width: ${({ theme }) => theme.breakpoints.lg}) {
     display: none;
   }
@@ -31,8 +31,8 @@ const StyledContainer = styled.div`
   outline: 0;
   z-index: 10;
   transition: all 0.3s ease-in-out;
-  transform: ${({ open }) => (open ? "translateX(0)" : "translateX(100%)")};
-  visibility: ${({ open }) => (open ? "visible" : "hidden")};
+  transform: ${({ open }) => (open ? 'translateX(0)' : 'translateX(100%)')};
+  visibility: ${({ open }) => (open ? 'visible' : 'hidden')};
   @media (min-width: ${({ theme }) => theme.breakpoints.lg}) {
     display: none;
   }

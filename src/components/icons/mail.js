@@ -1,5 +1,5 @@
-import React from "react"
-import PropTypes from "prop-types"
+import React from 'react'
+import PropTypes from 'prop-types'
 
 const Mail = ({ color }) => {
   return (
@@ -37,7 +37,7 @@ Mail.propTypes = {
 }
 
 Mail.defaultProps = {
-  color: "#000000",
+  color: '#000000',
 }
 
 export default Mail

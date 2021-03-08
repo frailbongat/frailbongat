@@ -1,11 +1,11 @@
 // SECTION TEMPLATE
 // If you want to add more sections to your page, you can use this component as a template
 
-import React from "react"
-import PropTypes from "prop-types"
-import styled from "styled-components"
+import React from 'react'
+import PropTypes from 'prop-types'
+import styled from 'styled-components'
 
-import ContentWrapper from "../styles/contentWrapper"
+import ContentWrapper from '../styles/contentWrapper'
 
 // Full Width Section
 const StyledSection = styled.section`

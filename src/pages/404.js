@@ -1,10 +1,10 @@
-import React from "react"
-import styled from "styled-components"
+import React from 'react'
+import styled from 'styled-components'
 
-import GlobalStateProvider from "../context/provider"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import ContentWrapper from "../styles/contentWrapper"
+import GlobalStateProvider from '../context/provider'
+import Layout from '../components/layout'
+import SEO from '../components/seo'
+import ContentWrapper from '../styles/contentWrapper'
 
 const StyledSection = styled.section`
   width: 100%;
@@ -39,7 +39,7 @@ const NotFoundPage = () => {
       <Layout>
         <SEO
           title="404: Not found"
-          meta={[{ name: "robots", content: "noindex" }]}
+          meta={[{ name: 'robots', content: 'noindex' }]}
         />
         <StyledSection>
           <StyledContentWrapper>

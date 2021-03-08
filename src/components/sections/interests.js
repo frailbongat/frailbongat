@@ -1,13 +1,13 @@
-import React, { useState, useEffect, useRef } from "react"
-import PropTypes from "prop-types"
-import styled from "styled-components"
-import Img from "gatsby-image"
-import { motion, useAnimation } from "framer-motion"
+import React, { useState, useEffect, useRef } from 'react'
+import PropTypes from 'prop-types'
+import styled from 'styled-components'
+import Img from 'gatsby-image'
+import { motion, useAnimation } from 'framer-motion'
 
-import { detectMobileAndTablet, isSSR } from "../../utils"
-import { useOnScreen } from "../../hooks/"
-import ContentWrapper from "../../styles/contentWrapper"
-import Button from "../../styles/button"
+import { detectMobileAndTablet, isSSR } from '../../utils'
+import { useOnScreen } from '../../hooks/'
+import ContentWrapper from '../../styles/contentWrapper'
+import Button from '../../styles/button'
 
 const StyledSection = styled.section`
   width: 100%;
@@ -60,9 +60,9 @@ const StyledInterests = styled.div`
   }
   /* Workaround: https://stackoverflow.com/questions/38993170/last-margin-padding-collapsing-in-flexbox-grid-layout */
   &::after {
-    content: "";
+    content: '';
     width: ${({ itemCount }) =>
-      Math.ceil(itemCount / 2) % 2 === 1 ? "17.125rem" : "2.5rem"};
+      Math.ceil(itemCount / 2) % 2 === 1 ? '17.125rem' : '2.5rem'};
   }
   @media (min-width: ${({ theme }) => theme.breakpoints.md}) {
     grid-auto-flow: row;

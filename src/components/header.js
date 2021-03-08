@@ -1,15 +1,15 @@
-import React, { useState, useEffect, useContext } from "react"
-import { Link } from "gatsby"
-import Helmet from "react-helmet"
-import styled from "styled-components"
-import { motion, useAnimation } from "framer-motion"
+import React, { useState, useEffect, useContext } from 'react'
+import { Link } from 'gatsby'
+import Helmet from 'react-helmet'
+import styled from 'styled-components'
+import { motion, useAnimation } from 'framer-motion'
 
-import Context from "../context"
-import { detectMobileAndTablet, isSSR } from "../utils/"
-import ContentWrapper from "../styles/contentWrapper"
-import Logo from "./logo"
-import Sidebar from "./sidebar"
-import Navbar from "./navbar"
+import Context from '../context'
+import { detectMobileAndTablet, isSSR } from '../utils/'
+import ContentWrapper from '../styles/contentWrapper'
+import Logo from './logo'
+import Sidebar from './sidebar'
+import Navbar from './navbar'
 
 const StyledHeader = motion.custom(styled.header`
   width: 100%;
@@ -58,16 +58,16 @@ const StyledBurger = styled.button`
     transform-origin: 1px;
 
     :first-child {
-      transform: ${({ open }) => (open ? "rotate(45deg)" : "rotate(0)")};
+      transform: ${({ open }) => (open ? 'rotate(45deg)' : 'rotate(0)')};
     }
 
     :nth-child(2) {
-      opacity: ${({ open }) => (open ? "0" : "1")};
-      transform: ${({ open }) => (open ? "translateX(20px)" : "translateX(0)")};
+      opacity: ${({ open }) => (open ? '0' : '1')};
+      transform: ${({ open }) => (open ? 'translateX(20px)' : 'translateX(0)')};
     }
 
     :nth-child(3) {
-      transform: ${({ open }) => (open ? "rotate(-45deg)" : "rotate(0)")};
+      transform: ${({ open }) => (open ? 'rotate(-45deg)' : 'rotate(0)')};
     }
   }
 `
@@ -86,8 +86,8 @@ const Header = () => {
       setWindowWidth(window.innerWidth)
     }
     // Add event listener to update windowWidth in state
-    window.addEventListener("resize", handleWindowSizeChange)
-    return () => window.removeEventListener("resize", handleWindowSizeChange)
+    window.addEventListener('resize', handleWindowSizeChange)
+    return () => window.removeEventListener('resize', handleWindowSizeChange)
   }, [windowWidth])
 
   // Required for animation - start after the splashScreen sequence is done
@@ -120,7 +120,7 @@ const Header = () => {
   return (
     <StyledHeader initial={{ opacity: 0, y: -10 }} animate={controls}>
       {/* add blur class to body when sidebar is opened */}
-      <Helmet bodyAttributes={{ class: open ? "blur" : "" }} />
+      <Helmet bodyAttributes={{ class: open ? 'blur' : '' }} />
       <StyledContentWrapper>
         <Link to="/" aria-label="home">
           <Logo color="primary" size="2rem" />

@@ -1,5 +1,5 @@
-import React from "react"
-import PropTypes from "prop-types"
+import React from 'react'
+import PropTypes from 'prop-types'
 
 const External = ({ color }) => {
   return (
@@ -34,7 +34,7 @@ External.propTypes = {
 }
 
 External.defaultProps = {
-  color: "#000000",
+  color: '#000000',
 }
 
 export default External

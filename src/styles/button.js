@@ -1,6 +1,6 @@
-import React from "react"
-import PropTypes from "prop-types"
-import styled from "styled-components"
+import React from 'react'
+import PropTypes from 'prop-types'
+import styled from 'styled-components'
 
 const StyledButton = styled.button`
   width: 15.625rem;
@@ -8,14 +8,14 @@ const StyledButton = styled.button`
   background-color: ${({ theme }) => theme.colors.primary};
   color: ${({ theme }) => theme.colors.background};
   padding: 1rem;
-  margin: 0 ${({ center }) => (center ? "auto" : "0")};
+  margin: 0 ${({ center }) => (center ? 'auto' : '0')};
   font-size: 0.875rem;
   font-weight: 700;
   text-transform: uppercase;
   border: none;
   border-radius: ${({ theme }) => theme.borderRadius};
   text-decoration: none;
-  text-align: ${({ textAlign }) => (textAlign ? textAlign : "left")};
+  text-align: ${({ textAlign }) => (textAlign ? textAlign : 'left')};
   &:hover,
   &:focus,
   &:active {

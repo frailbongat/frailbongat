@@ -1,18 +1,18 @@
-import React, { useState, useEffect, useRef, useContext } from "react"
-import PropTypes from "prop-types"
-import styled from "styled-components"
-import { MDXRenderer } from "gatsby-plugin-mdx"
-import Img from "gatsby-image"
-import VisibilitySensor from "react-visibility-sensor"
-import { motion } from "framer-motion"
+import React, { useState, useEffect, useRef, useContext } from 'react'
+import PropTypes from 'prop-types'
+import styled from 'styled-components'
+import { MDXRenderer } from 'gatsby-plugin-mdx'
+import Img from 'gatsby-image'
+import VisibilitySensor from 'react-visibility-sensor'
+import { motion } from 'framer-motion'
 
-import { useOnScreen } from "../../hooks"
-import Context from "../../context"
-import ContentWrapper from "../../styles/contentWrapper"
-import Underlining from "../../styles/underlining"
-import Button from "../../styles/button"
-import Icon from "../../components/icons"
-import { lightTheme, darkTheme } from "../../styles/theme"
+import { useOnScreen } from '../../hooks'
+import Context from '../../context'
+import ContentWrapper from '../../styles/contentWrapper'
+import Underlining from '../../styles/underlining'
+import Button from '../../styles/button'
+import Icon from '../../components/icons'
+import { lightTheme, darkTheme } from '../../styles/theme'
 
 const StyledSection = styled.section`
   width: 100%;
@@ -128,7 +128,7 @@ const StyledProject = styled(motion.div)`
     padding-right: 0;
     /* Positioning of image and details should vary */
     flex-direction: ${({ position }) =>
-      position % 2 !== 0 ? "row" : "row-reverse"};
+      position % 2 !== 0 ? 'row' : 'row-reverse'};
   }
   .details {
     width: 100%;
@@ -260,7 +260,7 @@ const Projects = ({ content }) => {
         <motion.div
           ref={tRef}
           variants={tVariants}
-          animate={tOnScreen ? "visible" : "hidden"}
+          animate={tOnScreen ? 'visible' : 'hidden'}
         >
           <h3 className="section-title">{sectionDetails.frontmatter.title}</h3>
           <div className="counter">
@@ -281,7 +281,7 @@ const Projects = ({ content }) => {
                   position={key + 1}
                   variants={pVariants}
                   animate={
-                    onScreen[frontmatter.position] ? "visible" : "hidden"
+                    onScreen[frontmatter.position] ? 'visible' : 'hidden'
                   }
                 >
                   <div className="details">
@@ -353,7 +353,7 @@ const Projects = ({ content }) => {
         <motion.a
           ref={bRef}
           variants={bVariants}
-          animate={bOnScreen ? "visible" : "hidden"}
+          animate={bOnScreen ? 'visible' : 'hidden'}
           className="cta-btn"
           href={sectionDetails.frontmatter.buttonUrl}
           target="_blank"

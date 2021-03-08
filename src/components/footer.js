@@ -1,12 +1,12 @@
-import React, { useContext } from "react"
-import { Link } from "gatsby"
-import styled from "styled-components"
+import React, { useContext } from 'react'
+import { Link } from 'gatsby'
+import styled from 'styled-components'
 
-import ContentWrapper from "../styles/contentWrapper"
-import Context from "../context"
-import Logo from "./logo"
-import { lightTheme, darkTheme } from "../styles/theme"
-import { footerLinks } from "../../config"
+import ContentWrapper from '../styles/contentWrapper'
+import Context from '../context'
+import Logo from './logo'
+import { lightTheme, darkTheme } from '../styles/theme'
+import { footerLinks } from '../../config'
 
 const StyledFooter = styled.footer`
   width: 100%;

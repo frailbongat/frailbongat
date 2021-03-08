@@ -1,5 +1,5 @@
-import React from "react"
-import PropTypes from "prop-types"
+import React from 'react'
+import PropTypes from 'prop-types'
 
 const Behance = ({ color }) => {
   return (
@@ -59,7 +59,7 @@ Behance.propTypes = {
 }
 
 Behance.defaultProps = {
-  color: "#000000",
+  color: '#000000',
 }
 
 export default Behance

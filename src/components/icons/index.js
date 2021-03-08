@@ -1,30 +1,30 @@
-import React from "react"
-import PropTypes from "prop-types"
+import React from 'react'
+import PropTypes from 'prop-types'
 
-import IconXing from "./xing"
-import IconLinkedIn from "./linkedin"
-import IconMedium from "./medium"
-import IconGitHub from "./github"
-import IconBehance from "./behance"
-import IconExternal from "./external"
-import IconMail from "./mail"
+import IconXing from './xing'
+import IconLinkedIn from './linkedin'
+import IconMedium from './medium'
+import IconGitHub from './github'
+import IconBehance from './behance'
+import IconExternal from './external'
+import IconMail from './mail'
 
 // Utility function to grab Icons by name
 const Icon = ({ name, color }) => {
   switch (name.toLowerCase()) {
-    case "xing":
+    case 'xing':
       return <IconXing color={color} />
-    case "linkedin":
+    case 'linkedin':
       return <IconLinkedIn color={color} />
-    case "medium":
+    case 'medium':
       return <IconMedium color={color} />
-    case "github":
+    case 'github':
       return <IconGitHub color={color} />
-    case "behance":
+    case 'behance':
       return <IconBehance color={color} />
-    case "external":
+    case 'external':
       return <IconExternal color={color} />
-    case "mail":
+    case 'mail':
       return <IconMail color={color} />
     default:
       return null

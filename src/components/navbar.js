@@ -1,8 +1,8 @@
-import React from "react"
-import styled from "styled-components"
-import { Link } from "gatsby"
+import React from 'react'
+import styled from 'styled-components'
+import { Link } from 'gatsby'
 
-import { navLinks } from "../../config"
+import { navLinks } from '../../config'
 
 const StyledNav = styled.nav`
   display: none;
@@ -25,7 +25,7 @@ const StyledNav = styled.nav`
     &::before {
       transition: 200ms ease-out;
       height: 0.1563rem;
-      content: "";
+      content: '';
       position: absolute;
       background-color: ${({ theme }) => theme.colors.primary};
       width: 0%;

@@ -1,11 +1,11 @@
-import React, { useContext } from "react"
-import PropTypes from "prop-types"
-import styled from "styled-components"
+import React, { useContext } from 'react'
+import PropTypes from 'prop-types'
+import styled from 'styled-components'
 
-import Context from "../context"
-import Icon from "./icons"
-import { lightTheme, darkTheme } from "../styles/theme"
-import { socialMedia } from "../../config"
+import Context from '../context'
+import Icon from './icons'
+import { lightTheme, darkTheme } from '../styles/theme'
+import { socialMedia } from '../../config'
 
 const StyledSocialWrapper = styled.div`
   display: grid;
@@ -31,7 +31,7 @@ const StyledSocialWrapper = styled.div`
 
   /* Workaround: https://stackoverflow.com/questions/38993170/last-margin-padding-collapsing-in-flexbox-grid-layout */
   &::after {
-    content: "";
+    content: '';
     width: 2.5rem;
   }
 
@@ -69,7 +69,7 @@ const StyledSocialWrapper = styled.div`
 `
 
 const StyledSocialProfile = styled.a`
-  width: ${({ width }) => (width ? width : "auto")};
+  width: ${({ width }) => (width ? width : 'auto')};
   height: auto;
   background: ${({ theme }) => theme.colors.background};
   background: linear-gradient(
@@ -81,9 +81,9 @@ const StyledSocialProfile = styled.a`
   background-position: right bottom;
   border-radius: ${({ theme }) => theme.borderRadius};
   border: 0.125rem solid ${({ theme }) => theme.colors.primary};
-  padding: ${({ padding }) => (padding ? padding : ".3rem 1.25rem")};
+  padding: ${({ padding }) => (padding ? padding : '.3rem 1.25rem')};
   transition: all 0.1s ease-out;
-  font-size: ${({ fontSize }) => (fontSize ? fontSize : "1rem")};
+  font-size: ${({ fontSize }) => (fontSize ? fontSize : '1rem')};
   font-weight: 500;
   color: ${({ theme }) => theme.colors.primary};
   &:hover {
@@ -128,7 +128,7 @@ const Social = ({ width, padding, fontSize, fontWeight, withIcon }) => {
                     : lightTheme.colors.primary
                 }
               />
-            ) : null}{" "}
+            ) : null}{' '}
             {name}
           </StyledSocialProfile>
         )

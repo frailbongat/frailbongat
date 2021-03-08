@@ -1,11 +1,11 @@
-import React, { useContext, useState, useEffect } from "react"
-import styled from "styled-components"
-import CookieConsent from "react-cookie-consent"
-import { useLocation } from "@reach/router"
-import { initializeAndTrack } from "gatsby-plugin-gdpr-cookies"
-import { motion, useAnimation } from "framer-motion"
+import React, { useContext, useState, useEffect } from 'react'
+import styled from 'styled-components'
+import CookieConsent from 'react-cookie-consent'
+import { useLocation } from '@reach/router'
+import { initializeAndTrack } from 'gatsby-plugin-gdpr-cookies'
+import { motion, useAnimation } from 'framer-motion'
 
-import Context from "../context/"
+import Context from '../context/'
 
 const StyledCookieBar = motion.custom(styled.div`
   position: fixed;
