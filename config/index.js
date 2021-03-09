@@ -1,8 +1,8 @@
 module.exports = {
   //-- SITE SETTINGS -----
-  author: '@konstantinmuenster',
-  siteTitle: 'Gatsby Starter Portfolio Minimal',
-  siteShortTitle: 'Gatsby', // Used as logo text in header, footer, and splash screen
+  author: '@frailbongat',
+  siteTitle: 'Frail Bongat - Frontend Web Developer',
+  siteShortTitle: 'Frail Bongat', // Used as logo text in header, footer, and splash screen
   siteDescription:
     'A modern one-page portfolio with a clean yet expressive design.',
   siteUrl: 'https://gatsby-starter-portfolio-minimal.netlify.app/',
@@ -57,21 +57,12 @@ module.exports = {
   // Medium, GitHub, LinkedIn, XING, Behance, E-Mail
   socialMedia: [
     {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/konstantin-muenster/',
-    },
-    {
-      name: 'Medium',
-      url: 'https://konstantinmuenster.medium.com/',
-    },
-    {
       name: 'Github',
-      url:
-        'https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal',
+      url: 'https://github.com/frailbongat',
     },
     {
-      name: 'Behance',
-      url: 'https://www.behance.net/konstanmnster',
+      name: 'Twitter',
+      url: 'https://twitter.com/frailbongat',
     },
     // {
     //   name: "Mail",
