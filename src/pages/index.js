@@ -4,7 +4,12 @@ export default function Home() {
   return (
     <>
       <main>
-        <h1>Hey there, I'm Frail 👋</h1>
+        <h1>
+          Hey there, I'm Frail{" "}
+          <span role="img" aria-label="wave">
+            👋
+          </span>
+        </h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
           aut minus cumque explicabo quidem repudiandae tempore eum ducimus
@@ -37,17 +42,47 @@ export default function Home() {
       <section>
         <ul>
           <li>
-            <a href="#">Github</a>
-            <a href="#">LinkedIn</a>
-            <a href="#">Twitter</a>
+            <a
+              href="https://github.com/frailbongat"
+              target="_blank"
+              without
+              rel="noreferrer"
+            >
+              Github
+            </a>
+            <a
+              href="https://www.linkedin.com/in/frail-bongat-70a71413b/"
+              target="_blank"
+              without
+              rel="noreferrer"
+            >
+              LinkedIn
+            </a>
+            <a
+              href="https://twitter.com/frailbongat"
+              target="_blank"
+              without
+              rel="noreferrer"
+            >
+              Twitter
+            </a>
           </li>
         </ul>
       </section>
       <footer>
-        <p>© 2020 Cai Cardenas. No cookies here 🍪</p>
+        <p>
+          © 2020 Cai Cardenas. No cookies here{" "}
+          <span role="img" aria-label="cookie">
+            🍪
+          </span>
+        </p>
         <p>
           Tech in use - Gatsby & Tailwind CSS (So expect this guy to be very
-          fast 😉)
+          fast{" "}
+          <span role="img" aria-label="wink">
+            😉
+          </span>
+          )
         </p>
       </footer>
     </>
