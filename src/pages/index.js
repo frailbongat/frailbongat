@@ -45,7 +45,6 @@ export default function Home() {
             <a
               href="https://github.com/frailbongat"
               target="_blank"
-              without
               rel="noreferrer"
             >
               Github
@@ -53,7 +52,6 @@ export default function Home() {
             <a
               href="https://www.linkedin.com/in/frail-bongat-70a71413b/"
               target="_blank"
-              without
               rel="noreferrer"
             >
               LinkedIn
@@ -61,7 +59,6 @@ export default function Home() {
             <a
               href="https://twitter.com/frailbongat"
               target="_blank"
-              without
               rel="noreferrer"
             >
               Twitter
