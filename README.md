@@ -1,7 +1,7 @@
 <h1>Hi 👋</h1>
 <p>
   Welcome to my github!
-  </br>
+  <br>
   I'm Frail, a passionate frontend web developer from
   <img alt="philippine flag" src="./images/philippine-flag.svg" width="13" height="13" />
   <b>Iligan, Philippines</b>, currently working remotely.
@@ -16,6 +16,10 @@
   👯 I’m looking to collaborate on React Project
   <br>
   💬 Ask me anything about HTML, CSS, & JS
+</p>
+
+<p>
+  Check my personal website - <a href="https://frailbongat.com">frailbongat.com</a>
 </p>
 
 <h3>Things I code</h3>
@@ -44,7 +48,4 @@
   <a href="https://twitter.com/frailbongat">
     <img alt="twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-</p>
-<p>
-  <a href="https://frailbongat.com">frailbongat.com</a>
 </p>
