@@ -3,12 +3,12 @@
   Welcome to my github!
   </br>
   I'm Frail, a passionate frontend web developer from
-  <img alt="philippine flag" src="src/images/philippine-flag.svg" width="13" height="13" />
+  <img alt="philippine flag" src="./images/philippine-flag.svg" width="13" height="13" />
   <b>Iligan, Philippines</b>, currently working remotely.
 </p>
 
 <p>
-  <img alt="html css" src="src/images/html-css.svg" width="50%" height="290" align="right" />
+  <img alt="html css" src="./images/html-css.svg" width="50%" height="290" align="right" />
   🔭 I’m currently working on a cheatsheet website
   <br>
   🌱 I’m currently learning React & Gatsby
@@ -45,17 +45,6 @@
     <img alt="twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </p>
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md
-Badge - https://shields.io/
-Color - https://simpleicons.org/
--->
+<p>
+  <a href="https://frailbongat.com">frailbongat.com</a>
+</p>
