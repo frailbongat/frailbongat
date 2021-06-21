@@ -9,13 +9,13 @@
 
 <p>
   <img alt="html css" src="./images/html-css.svg" width="50%" height="290" align="right" />
-  🔭 I’m currently working on a cheatsheet website
+  🔭 I’m currently working on a personal portfolio site
   <br>
   🌱 I’m currently learning React & Gatsby
   <br>
   👯 I’m looking to collaborate on React Project
   <br>
-  💬 Ask me anything about HTML, CSS, & JS
+  💬 Ask me anything related to frontend
 </p>
 
 <p>
