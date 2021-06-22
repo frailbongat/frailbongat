@@ -18,10 +18,6 @@
   💬 Ask me anything related to frontend
 </p>
 
-<p>
-  Check my personal website - <a href="https://frailbongat.com">frailbongat.com</a>
-</p>
-
 <h3>Things I code</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
