@@ -8,7 +8,7 @@
 </p>
 
 <p>
-<img alt="html css" src="./images/clear-img.png" width="25%" height="290" align="right" />
+<img alt="html css" src="./images/clear-img.png" width="30%" height="290" align="right" />
   🔭 I’m currently working on a personal portfolio site
   <br>
   🌱 I’m currently learning React & Gatsby
