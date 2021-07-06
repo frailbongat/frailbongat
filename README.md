@@ -8,7 +8,6 @@
 </p>
 
 <p>
-  <img alt="html css" src="./images/html-css.svg" width="50%" height="290" align="right" />
   🔭 I’m currently working on a personal portfolio site
   <br>
   🌱 I’m currently learning React & Gatsby
