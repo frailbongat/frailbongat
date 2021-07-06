@@ -8,6 +8,7 @@
 </p>
 
 <p>
+<img alt="html css" src="./images/clear-img.png" width="50%" height="290" align="right" />
   🔭 I’m currently working on a personal portfolio site
   <br>
   🌱 I’m currently learning React & Gatsby
@@ -18,7 +19,7 @@
 </p>
 
 <h3>Things I code with</h3>
-<p style="width: 65%;">
+<p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
