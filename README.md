@@ -9,7 +9,7 @@
 
 <p>
 <img alt="html css" src="./images/clear-img.png" width="30%" height="290" align="right" />
-  🔭 I’m currently working on a personal portfolio site
+  🔭 I’m currently working on a next.js project
   <br>
   🌱 I’m currently learning React & Gatsby
   <br>
@@ -28,6 +28,7 @@
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="tailwind css" src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="bulmna" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" />
+  <img alt="chakra ui" src="https://img.shields.io/badge/-Chakra UI-319795?style=flat-square&logo=chakraui&logoColor=white" />
   <img alt="jquery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
