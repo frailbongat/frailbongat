@@ -38,7 +38,9 @@
   <img alt="shopify" src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frailbongat&layout=compact&theme=gotham)](https://github.com/frailbongat)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frailbongat&bg_color=0d1117&text_color=c9d1d9&title_color=fc0&border_radius=6px&border_color=21262d&show_icons=true&icon_color=fc0&count_private=true&disable_animations=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frailbongat&layout=compact&langs_count=10&bg_color=0d1117&text_color=c9d1d9&title_color=fc0&border_radius=6px&border_color=21262d)](https://github.com/frailbongat)
 
 <h3>Reach Me At</h3>
 <p>
