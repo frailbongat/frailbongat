@@ -42,6 +42,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frailbongat&layout=compact&langs_count=10&bg_color=0d1117&text_color=c9d1d9&title_color=fc0&border_radius=6px&border_color=21262d)](https://github.com/frailbongat)
 
+<a href="https://app.daily.dev/frailbongat"><img src="https://api.daily.dev/devcards/a281aa2506ef4b788319862d391334ca.png?r=set" width="200" alt="Frail Bongat's Dev Card"/></a>
+
 <h3>Reach Me At</h3>
 <p>
   <a href="https://www.upwork.com/freelancers/~01c7889b512a0fa907">
