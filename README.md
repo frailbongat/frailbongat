@@ -1,5 +1,7 @@
 <h1>Hi 👋</h1>
 <p>
+   <a href="https://app.daily.dev/frailbongat"><img align="right" src="https://github.com/frailbongat/frailbongat/blob/main/devcard.svg" width="200" alt="Frail Bongat's Dev Card"/></a>
+  
   Welcome to my github!
   <br>
   I'm Frail, a passionate frontend web developer from
@@ -8,7 +10,6 @@
 </p>
 
 <p>
-<img alt="html css" src="./images/clear-img.png" width="30%" height="290" align="right" />
   🔭 I’m currently working on a next.js project
   <br>
   🌱 I’m currently learning React & Gatsby
@@ -41,8 +42,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frailbongat&bg_color=0d1117&text_color=c9d1d9&title_color=fc0&border_radius=6px&border_color=21262d&show_icons=true&icon_color=fc0&count_private=true&disable_animations=true&custom_title=Github%20Stats&include_all_commits=true)](https://github.com/frailbongat)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frailbongat&layout=compact&langs_count=10&bg_color=0d1117&text_color=c9d1d9&title_color=fc0&border_radius=6px&border_color=21262d)](https://github.com/frailbongat)
-
-<a href="https://app.daily.dev/frailbongat"><img src="https://api.daily.dev/devcards/a281aa2506ef4b788319862d391334ca.png?r=set" width="200" alt="Frail Bongat's Dev Card"/></a>
 
 <h3>Reach Me At</h3>
 <p>
