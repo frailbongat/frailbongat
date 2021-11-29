@@ -10,6 +10,8 @@
 </p>
 
 <p>
+  <img alt="html css" src="./images/clear-img.png" width="30%" height="290" align="right" />
+   
   🔭 I’m currently working on a next.js project
   <br>
   🌱 I’m currently learning React & Gatsby
