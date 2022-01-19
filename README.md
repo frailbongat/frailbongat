@@ -33,6 +33,7 @@
   <img alt="bulmna" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" />
   <img alt="chakra ui" src="https://img.shields.io/badge/-Chakra UI-319795?style=flat-square&logo=chakraui&logoColor=white" />
   <img alt="jquery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img alt="svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
   <img alt="next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white" />
