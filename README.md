@@ -11,13 +11,13 @@
   I specialize in UI creation/manipulation and focuses in svelte, react & javascript.
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,bootstrap,tailwind,svelte,react,gatsby,nextjs,graphql,wordpress)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,bootstrap,tailwind,svelte,react,gatsby,nextjs,graphql,wordpress)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frailbongat&bg_color=0d1117&text_color=c9d1d9&title_color=ff6665&border_radius=6px&border_color=21262d&show_icons=true&icon_color=ff6665&count_private=true&disable_animations=true&custom_title=Github%20Stats&include_all_commits=true)](https://github.com/frailbongat)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frailbongat&bg_color=0d1117&text_color=c9d1d9&title_color=ff6665&border_radius=6px&border_color=21262d&show_icons=true&icon_color=ff6665&count_private=true&disable_animations=true&custom_title=Github%20Stats&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frailbongat&layout=compact&langs_count=10&bg_color=0d1117&text_color=c9d1d9&title_color=ff6665&border_radius=6px&border_color=21262d)](https://github.com/frailbongat)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frailbongat&layout=compact&langs_count=10&bg_color=0d1117&text_color=c9d1d9&title_color=ff6665&border_radius=6px&border_color=21262d)
 
-<h3>Reach Me At</h3>
+<h3>Reach Me At <small>(Icons are clickable)</small></h3>
 <p>
   <a href="mailto:frailbongat@gmail.com">
       <img alt="gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
