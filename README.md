@@ -1,4 +1,4 @@
-<h1>Hi <img alt="hi" src="./images/hi.gif"  width="33px" /></h1>
+<h1>Hi <img alt="hi" src="./images/hi.gif"  width="33px" height="33" /></h1>
 <p>
    <!-- (<a href="https://app.daily.dev/frailbongat"><img align="right" src="https://github.com/frailbongat/frailbongat/blob/main/devcard.svg" width="200" alt="Frail Bongat's Dev Card"/></a>) -->
   
