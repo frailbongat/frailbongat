@@ -6,7 +6,7 @@
   <br>
   I'm Frail, a passionate frontend web developer from
   <img alt="philippine flag" src="./images/philippine-flag.svg" width="13" height="13" />
-  <b>Cebu, Philippines</b>, currently working remotely.
+  <b>PH</b>, currently working remotely.
   <br>
   I specialize in UI creation/manipulation and focuses in svelte, react & javascript.
 </p>
