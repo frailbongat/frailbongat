@@ -1,14 +1,8 @@
-<h1>Hi <img alt="hi" src="./images/hi.gif"  width="33px" height="33" /></h1>
+<h1>Frail, Frontend</h1>
 <p>
-   <!-- (<a href="https://app.daily.dev/frailbongat"><img align="right" src="https://github.com/frailbongat/frailbongat/blob/main/devcard.svg" width="200" alt="Frail Bongat's Dev Card"/></a>) -->
-  
-  Welcome to my github!
-  <br>
-  I'm Frail, a passionate frontend web developer from
-  <img alt="philippine flag" src="./images/philippine-flag.svg" width="13" height="13" />
-  <b>PH</b>, currently working remotely.
-  <br>
-  I specialize in UI creation/manipulation and focuses in svelte, react & javascript.
+   Hi 👋, I'm Frail, a seasoned frontend web developer with six years of experience. 
+   <br />
+   I specialize in creating visually appealing, responsive web applications with great attention to detail.
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,bootstrap,tailwind,svelte,react,gatsby,nextjs,graphql,wordpress)](https://github.com/frailbongat)
@@ -19,13 +13,10 @@
 
 <h3>Reach Me At</h3>
 <p>
-  <a href="mailto:frailbongat@gmail.com">
+  <a href="mailto:hello@frailbongat.tech">
       <img alt="gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
     </a>
   <a href="https://www.upwork.com/freelancers/~01c7889b512a0fa907">
     <img alt="upwork" src="https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/frailbongat">
-    <img alt="twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
