@@ -13,7 +13,7 @@
 
 <h3>Reach Me At</h3>
 <p>
-  <a href="mailto:hello@frailbongat.tech">
+  <a href="mailto:hello@frail.dev">
       <img alt="gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
     </a>
   <a href="https://www.upwork.com/freelancers/~01c7889b512a0fa907">
