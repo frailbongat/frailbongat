@@ -5,11 +5,11 @@
    I specialize in creating visually appealing, responsive web applications with great attention to detail.
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,bootstrap,tailwind,svelte,react,gatsby,nextjs,graphql,wordpress)](https://github.com/frailbongat)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,bootstrap,tailwind,svelte,react,gatsby,nextjs,graphql,wordpress)](https://github.com/frailsb)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frailbongat&bg_color=0d1117&text_color=c9d1d9&title_color=ff6665&border_radius=6px&border_color=21262d&show_icons=true&icon_color=ff6665&count_private=true&disable_animations=true&custom_title=Github%20Stats&include_all_commits=true)](https://github.com/frailbongat)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frailsb&bg_color=0d1117&text_color=c9d1d9&title_color=ff6665&border_radius=6px&border_color=21262d&show_icons=true&icon_color=ff6665&count_private=true&disable_animations=true&custom_title=Github%20Stats&include_all_commits=true)](https://github.com/frailsb)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frailbongat&layout=compact&langs_count=10&bg_color=0d1117&text_color=c9d1d9&title_color=ff6665&border_radius=6px&border_color=21262d)](https://github.com/frailbongat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frailsb&layout=compact&langs_count=10&bg_color=0d1117&text_color=c9d1d9&title_color=ff6665&border_radius=6px&border_color=21262d)](https://github.com/frailsb)
 
 <h3>Reach Me At</h3>
 <p>
