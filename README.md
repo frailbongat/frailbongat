@@ -1,8 +1,8 @@
 <h1>Frail, Frontend</h1>
 <p>
-   Hi 👋, I'm Frail, a seasoned frontend web developer with six years of experience. 
+   Hi there! 👋 I’m Frail, a frontend developer who loves creating visually appealing and responsive web applications.
    <br />
-   I specialize in creating visually appealing, responsive web applications with great attention to detail.
+   P.S. I also enjoy design and backend development.
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,bootstrap,tailwind,svelte,react,gatsby,nextjs,graphql,wordpress)](https://github.com/frailsb)
